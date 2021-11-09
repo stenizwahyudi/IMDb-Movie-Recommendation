@@ -1,2 +1,1 @@
-# IMDb-Movie-Recommendation
-An app to recommend movies/tv series to the users based on users' preferences
+# Team-8-NexTv-App
