@@ -1,1 +1,3 @@
-# Team-8-NexTv-App
+# IMDb Movie Recommendation
+
+This app is using all of the movies and tv series that are available on IMDb. The data has been processed and joined with other database to enhance its functionality. For instance, the data taken from IMDb has been joined with another database found from public website that shows in what online movie streaming platform they are available in, such as Netflix, Hulu, Amazon Prime Video, and Disney Plus. Hence, the users can see where they can watch/stream the media based on what streaming platform they are subscribing. Furthermore, the users can filter the media they want to see based on the released year, IMDb rating, genres, language, etc.
